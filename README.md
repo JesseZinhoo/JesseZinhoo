@@ -1,5 +1,7 @@
 ## Olá! Eu sou Jessé Gomes! Prazer!
 
+<a href="https://instagram.com/jessegomess_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JesseZinhoo&show_icons=true&hide=prs,issues&theme=dark)
 
 <div style="display: inline_block" align="center"><br>
